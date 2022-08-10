@@ -156,7 +156,7 @@ table tr{
 footer{
   height:80px;
   background-color: #242A30;
-  margin: 0px;
+  margin-top: 0px;
   width:inherit;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
